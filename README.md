@@ -75,9 +75,9 @@ Sometimes, it would be a good idea to cut the pipe chain off.
 However, what if you're processing a chain of independant events. Each event can succeed or fail. If a single event
 fails, it shouldn't influence the other events?
 
-Besides, error handling is super important and underrated to some degree.
+Besides, error handling is super important and underrated at some degree.
 
-This is my take on how we should handle errors and exceptions in node.
+This is my take on how we should handle errors and exceptions in streams.
 
 ## The solution
 
