@@ -1,0 +1,27 @@
+{
+  "name": "errorstream",
+  "version": "0.0.1",
+  "main": "./errorstrem.js",
+  "description": "Error handling for node streams.",
+  "homepage": "https://github.com/tounano/errorstream/",
+  "author": "ClickHere <js@clickhere.co.il>",
+  "keywords": [
+    "errors",
+    "exceptions",
+    "streams"
+  ],
+  "licenses": {
+    "type": "The MIT License",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tounano/errorstream"
+  },
+  "engines": {
+    "node": ">=0.6.11 <=0.7.0 || >=0.7.3"
+  },
+  "dependencies": {
+    "through": "latest"
+  }
+}
